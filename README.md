@@ -1,6 +1,6 @@
 # awesome-game-kata
 
-Welcome! This is a collection of code katas with a specific theme, games! Instead of FizzBuzz you'll build small game systems or a simplified version of exisitng board games.
+Welcome! This is a collection of code katas with a specific theme, games! Instead of FizzBuzz you'll build small game systems or a simplified version of exisitng board games. The katas can be from other kata platforms, for example [Codewars](https://www.codewars.com/).
 
 Feel free to add your own!
 
