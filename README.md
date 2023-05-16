@@ -4,7 +4,7 @@ Welcome! This is a collection of code katas with a specific theme, games! Instea
 
 Feel free to add your own!
 
-_I did not make any of these (yet), I've found these on other lists. Check out [awesome-katas](https://github.com/gamontal/awesome-katas) for TONS of different katas_
+_Most of these katas I've found on other lists. Check out [awesome-katas](https://github.com/gamontal/awesome-katas) for TONS of different katas_
 
 ## Lists
 
@@ -14,6 +14,7 @@ _I did not make any of these (yet), I've found these on other lists. Check out [
 - [Zombie Survivor](https://github.com/ardalis/kata-catalog/blob/main/katas/Zombie%20Survivors.md)
 - [Card Game War](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war)
 - [Trading Card Game](https://github.com/bkimminich/kata-tcg)
+- [Mario Level Names](/katas/mario-level-names.md)
 
 ### Codewars
 
