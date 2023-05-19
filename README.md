@@ -15,6 +15,7 @@ _Most of these katas I've found on other lists. Check out [awesome-katas](https:
 - [Card Game War](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war)
 - [Trading Card Game](https://github.com/bkimminich/kata-tcg)
 - [Mario Level Names](/katas/mario-level-names.md)
+- [Reloader](/katas/reloader-kata.md)
 
 ### Codewars
 
