@@ -16,6 +16,7 @@ _Most of these katas I've found on other lists. Check out [awesome-katas](https:
 - [Trading Card Game](https://github.com/bkimminich/kata-tcg)
 - [Mario Level Names](/katas/mario-level-names.md)
 - [Reloader](/katas/reloader-kata.md)
+- [Command Extractor](/katas/command-extractor.md)
 
 ### Codewars
 
